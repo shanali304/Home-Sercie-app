@@ -1,0 +1,4 @@
+#Fri Oct 21 00:06:20 PKT 2022
+base.0=D\:\\StudioProjects\\ecommerce_with_api\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
